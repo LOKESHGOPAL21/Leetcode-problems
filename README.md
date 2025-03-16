@@ -17,12 +17,14 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0322-coin-change](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0747-min-cost-climbing-stairs) |
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0322-coin-change](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0747-min-cost-climbing-stairs) |
 | [3483-alternating-groups-ii](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3483-alternating-groups-ii) |
@@ -34,4 +36,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0322-coin-change) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
