@@ -40,4 +40,8 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0045-jump-game-ii) |
+## Database
+|  |
+| ------- |
+| [0596-classes-more-than-5-students](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0596-classes-more-than-5-students) |
 <!---LeetCode Topics End-->
