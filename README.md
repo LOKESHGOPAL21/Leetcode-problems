@@ -13,6 +13,7 @@
 | [0005-longest-palindromic-substring](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [1894-merge-strings-alternately](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1894-merge-strings-alternately) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,4 +45,12 @@
 |  |
 | ------- |
 | [0596-classes-more-than-5-students](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0596-classes-more-than-5-students) |
+## Hash Table
+|  |
+| ------- |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Counting
+|  |
+| ------- |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 <!---LeetCode Topics End-->
