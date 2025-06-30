@@ -27,12 +27,14 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0322-coin-change](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0322-coin-change) |
+| [0594-longest-harmonious-subsequence](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0747-min-cost-climbing-stairs) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3483-alternating-groups-ii](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3483-alternating-groups-ii) |
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [3483-alternating-groups-ii](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3483-alternating-groups-ii) |
 ## Breadth-First Search
 |  |
@@ -49,15 +51,18 @@
 ## Hash Table
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Heap (Priority Queue)
 |  |
