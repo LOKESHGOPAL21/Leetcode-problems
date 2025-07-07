@@ -31,6 +31,7 @@
 | [0322-coin-change](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0322-coin-change) |
 | [0594-longest-harmonious-subsequence](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0747-min-cost-climbing-stairs) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0045-jump-game-ii) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Database
 |  |
 | ------- |
@@ -70,10 +72,12 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Prefix Sum
 |  |
