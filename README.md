@@ -36,11 +36,13 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3483-alternating-groups-ii](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3483-alternating-groups-ii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [3483-alternating-groups-ii](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3483-alternating-groups-ii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -50,6 +52,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Database
 |  |
 | ------- |
