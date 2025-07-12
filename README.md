@@ -23,6 +23,7 @@
 | [0322-coin-change](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0747-min-cost-climbing-stairs) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [3618-find-the-original-typed-string-ii](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3618-find-the-original-typed-string-ii) |
 ## Array
 |  |
@@ -120,4 +121,8 @@
 |  |
 | ------- |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+## Memoization
+|  |
+| ------- |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 <!---LeetCode Topics End-->
