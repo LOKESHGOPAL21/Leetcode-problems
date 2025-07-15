@@ -15,6 +15,7 @@
 | [0005-longest-palindromic-substring](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0647-palindromic-substrings) |
+| [0812-rotate-string](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
@@ -139,4 +140,8 @@
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
