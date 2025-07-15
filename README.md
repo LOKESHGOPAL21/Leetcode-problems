@@ -17,6 +17,7 @@
 | [0647-palindromic-substrings](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [1078-remove-outermost-parentheses](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1894-merge-strings-alternately) |
+| [2032-largest-odd-number-in-string](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
 | [3618-find-the-original-typed-string-ii](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
@@ -60,6 +61,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2032-largest-odd-number-in-string](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -103,6 +105,7 @@
 ## Math
 |  |
 | ------- |
+| [2032-largest-odd-number-in-string](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Bit Manipulation
