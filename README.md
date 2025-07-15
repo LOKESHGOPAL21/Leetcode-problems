@@ -14,6 +14,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
@@ -73,6 +74,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -88,6 +90,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
