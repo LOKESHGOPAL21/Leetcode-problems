@@ -13,6 +13,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0647-palindromic-substrings) |
+| [1078-remove-outermost-parentheses](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1894-merge-strings-alternately) |
 | [3618-find-the-original-typed-string-ii](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -129,4 +130,8 @@
 |  |
 | ------- |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
