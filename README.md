@@ -14,6 +14,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0812-rotate-string) |
@@ -74,6 +75,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
