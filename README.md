@@ -16,6 +16,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
@@ -77,6 +78,7 @@
 | ------- |
 | [0205-isomorphic-strings](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -86,6 +88,7 @@
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -93,6 +96,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -101,6 +105,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/2479-meeting-rooms-iii) |
@@ -149,4 +154,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0812-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
