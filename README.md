@@ -23,6 +23,7 @@
 | [0812-rotate-string](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
 | [3618-find-the-original-typed-string-ii](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3618-find-the-original-typed-string-ii) |
@@ -85,6 +86,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/2479-meeting-rooms-iii) |
@@ -95,6 +97,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
