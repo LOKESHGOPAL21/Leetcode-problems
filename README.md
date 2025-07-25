@@ -126,6 +126,7 @@
 | [0013-roman-to-integer](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0050-powx-n) |
 | [2032-largest-odd-number-in-string](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Bit Manipulation
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0050-powx-n) |
+| [2050-count-good-numbers](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
