@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0045-jump-game-ii) |
+| [0303-range-sum-query-immutable](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0322-coin-change) |
 | [0594-longest-harmonious-subsequence](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0747-min-cost-climbing-stairs) |
@@ -119,6 +120,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [3618-find-the-original-typed-string-ii](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/3618-find-the-original-typed-string-ii) |
 ## Math
 |  |
@@ -149,6 +151,7 @@
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Enumeration
 |  |
