@@ -41,6 +41,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0217-contains-duplicate](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0303-range-sum-query-immutable) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0205-isomorphic-strings](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0242-valid-anagram) |
@@ -177,4 +179,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
