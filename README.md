@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0647-palindromic-substrings) |
@@ -43,6 +44,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
@@ -111,6 +113,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
