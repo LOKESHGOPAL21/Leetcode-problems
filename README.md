@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0647-palindromic-substrings](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [1894-merge-strings-alternately](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/1894-merge-strings-alternately) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -50,6 +51,7 @@
 | [0045-jump-game-ii](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0322-coin-change) |
@@ -196,4 +198,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/LOKESHGOPAL21/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
